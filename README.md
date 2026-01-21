@@ -1,18 +1,18 @@
-<h1 align="center">Hi there 👋, I'm Barlowe</h1>
+<h1 align="center">Hi there, I'm Barlowe</h1>
 
 <p align="center">
- 🎓 Software Engineer · 🌐 Specializing in Spring Boot · React · Docker · Kubernetes · ☁️ Cloud Learner
+ Software Engineer · Specializing in Spring Boot · React · Docker · Kubernetes · Cloud Learner
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 I'm a **Computer Science graduate**, specialized in **Software Engineering**.
-- 🔭 Currently working on my **Bachelor's Final Project (TFG)**: a full-stack web application using **Spring Boot (REST API)** and **React**.
-- 🌱 Learning **Kubernetes** and **Amazon Web Services (AWS)** to enhance my DevOps and cloud skills.
-- 🐳 I also have experience with **Docker** for containerizing and managing applications.
-- 📌 Interested in **microservices**, **RESTful APIs**, and **cloud-native development**.
+- I'm a **Computer Science graduate**, specialized in **Software Engineering**.
+- Currently working on my **Bachelor's Final Project (TFG)**: a full-stack web application using **Spring Boot (REST API)** and **React**.
+- Learning **Kubernetes** and **Amazon Web Services (AWS)** to enhance my DevOps and cloud skills.
+- I also have experience with **Docker** for containerizing and managing applications.
+- Interested in **microservices**, **RESTful APIs**, and **cloud-native development**.
 
 ---
 
@@ -46,21 +46,15 @@
 
 ## 🧠 Currently learning
 
-- ☁️ **AWS (EC2, S3, IAM, Lambda, RDS)**
-- ⚙️ **Kubernetes & Container Orchestration**
-- 📦 **Microservices & Distributed Systems**
+- **AWS (EC2, S3, IAM, Lambda, RDS)**
+- *Kubernetes & Container Orchestration**
+- **Microservices & Distributed Systems**
 
 ---
 
 ## ✨ Fun facts
 
-- 🧩 I love solving technical challenges and refactoring legacy code.
-- 🎮 In my free time I enjoy gaming.
+- I love solving technical challenges and refactoring legacy code.
+- In my free time I enjoy gaming.
 
 ---
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=barlowe90&theme=onedark&column=4&margin-w=15&margin-h=15" />
-</p>
