@@ -18,11 +18,36 @@
 
 ## 🛠️ Tech Stack
 
-- **Backend:** Java · Spring Boot · Maven · REST
-- **Frontend:** React · HTML · CSS · JavaScript
-- **Cloud & DevOps:** AWS · Kubernetes · Docker
-- **Databases:** MySQL · PostgreSQL · H2 · MongoDB
-- **Tools:** Git · GitHub · VS Code · Eclipse · Postman
+**Backend:**  
+![Java](https://img.shields.io/badge/Java-232F3E?style=for-the-badge&logo=java&logoColor=white) 
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-232F3E?style=for-the-badge&logo=spring&logoColor=white) 
+![Maven](https://img.shields.io/badge/Maven-232F3E?style=for-the-badge&logo=apachemaven&logoColor=white) 
+![REST](https://img.shields.io/badge/REST-232F3E?style=for-the-badge)
+
+**Frontend:**  
+![React](https://img.shields.io/badge/React-232F3E?style=for-the-badge&logo=react&logoColor=white) 
+![HTML](https://img.shields.io/badge/HTML-232F3E?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/CSS-232F3E?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-232F3E?style=for-the-badge&logo=javascript&logoColor=white)
+
+**Cloud & DevOps:**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) 
+![Kubernetes](https://img.shields.io/badge/Kubernetes-232F3E?style=for-the-badge&logo=kubernetes&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-232F3E?style=for-the-badge&logo=docker&logoColor=white)
+
+**Databases:**  
+![MySQL](https://img.shields.io/badge/MySQL-232F3E?style=for-the-badge&logo=mysql&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-232F3E?style=for-the-badge&logo=postgresql&logoColor=white) 
+![H2](https://img.shields.io/badge/H2-232F3E?style=for-the-badge&logo=h2database&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-232F3E?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Tools:**  
+![Git](https://img.shields.io/badge/Git-232F3E?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-232F3E?style=for-the-badge&logo=github&logoColor=white) 
+![VS Code](https://img.shields.io/badge/VS_Code-232F3E?style=for-the-badge&logo=visualstudiocode&logoColor=white) 
+![Eclipse](https://img.shields.io/badge/Eclipse-232F3E?style=for-the-badge&logo=eclipse&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-232F3E?style=for-the-badge&logo=postman&logoColor=white)
+
 
 ---
 
