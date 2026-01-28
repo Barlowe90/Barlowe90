@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Barlowe</h1>
+<h1 align="center">Hi there 👋, I'm Barlowe</h1>
 
 <p align="center">
  Software Engineer · Specializing in Spring Boot · React · Docker · Kubernetes · Cloud Learner
