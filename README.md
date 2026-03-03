@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Barlowe</h1>
 
 <p align="center">
- Software Engineer · Specializing in Spring Boot · React · Docker · Kubernetes · Cloud Learner
+ Junior Full-stack Develope · Specializing in Java · Spring Boot | React · Next.js | Docker
 </p>
 
 ---
@@ -10,9 +10,8 @@
 
 - I'm a **Computer Science graduate**, specialized in **Software Engineering**.
 - Currently working on my **Bachelor's Final Project (TFG)**: a full-stack web application using **Spring Boot (REST API)** and **React**.
-- Learning **Kubernetes** and **Amazon Web Services (AWS)** to enhance my DevOps and cloud skills.
 - I also have experience with **Docker** for containerizing and managing applications.
-- Interested in **microservices**, **RESTful APIs**, and **cloud-native development**.
+- Interested in **microservices**, **RESTful APIs**, and **Full-Stack development**.
 
 ---
 
@@ -32,20 +31,17 @@
 
 **Cloud & DevOps:**  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) 
-![Kubernetes](https://img.shields.io/badge/Kubernetes-232F3E?style=for-the-badge&logo=kubernetes&logoColor=white) 
 ![Docker](https://img.shields.io/badge/Docker-232F3E?style=for-the-badge&logo=docker&logoColor=white)
 
 **Databases:**  
 ![MySQL](https://img.shields.io/badge/MySQL-232F3E?style=for-the-badge&logo=mysql&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-232F3E?style=for-the-badge&logo=postgresql&logoColor=white) 
-![H2](https://img.shields.io/badge/H2-232F3E?style=for-the-badge&logo=h2database&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-232F3E?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **Tools:**  
 ![Git](https://img.shields.io/badge/Git-232F3E?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-232F3E?style=for-the-badge&logo=github&logoColor=white) 
 ![VS Code](https://img.shields.io/badge/VS_Code-232F3E?style=for-the-badge&logo=visualstudiocode&logoColor=white) 
-![Eclipse](https://img.shields.io/badge/Eclipse-232F3E?style=for-the-badge&logo=eclipse&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-232F3E?style=for-the-badge&logo=postman&logoColor=white)
 
 
@@ -71,8 +67,6 @@
 
 ## 🧠 Currently learning
 
-- **AWS (EC2, S3, IAM, Lambda, RDS)**
-- *Kubernetes & Container Orchestration**
 - **Microservices & Distributed Systems**
 
 ---
